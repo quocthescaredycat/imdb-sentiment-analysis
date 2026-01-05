@@ -1,4 +1,4 @@
-﻿# Sentiment Classifier (IMDB) - RNN, LSTM, Transformer
+﻿# NLP-based Sentiment Classifier (IMDB) - RNN, LSTM, Transformer
 
 ## Overview
 
